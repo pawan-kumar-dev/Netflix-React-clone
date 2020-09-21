@@ -1,0 +1,3 @@
+This is the netflix clone build using the react app and calling the tmdb api
+
+and when you click on the movie images you can view the trailer of that particular images
